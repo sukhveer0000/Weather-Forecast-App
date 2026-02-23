@@ -38,7 +38,7 @@ A **Flutter-based Weather Forecast App** that provides real-time weather updates
 ## 📦 Installation
 1. Clone the repository  
    ```bash
-   https://github.com/sukhveer0000/flutter-ecommerce-app.git
+   https://github.com/sukhveer0000/Weather-Forecast-App.git
 
 2. Navigate to the project directory
    ```bash
