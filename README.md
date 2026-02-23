@@ -35,14 +35,19 @@ A **Flutter-based Weather Forecast App** that provides real-time weather updates
 
 ---
 
-## Installation & Setup 🚀
+## 📦 Installation
+1. Clone the repository  
+   ```bash
+   https://github.com/sukhveer0000/flutter-ecommerce-app.git
 
-1. **Clone the repository**  
-```bash
-git clone https://github.com/sukhveer0000/Weather-Forecast-App.git
-
-cd Weather-Forecast-App
-
-flutter pub get
-
-flutter run
+2. Navigate to the project directory
+   ```bash
+    cd flutter-ecommerce-app
+   
+3. Install dependencies
+   ```bash
+   flutter pub get
+   
+4. Run the app
+   ```bash
+   flutter run 
