@@ -16,7 +16,7 @@ A **Flutter-based Weather Forecast App** that provides real-time weather updates
 
 ---
 
-## Screenshots 📱
+## Application Demo 📱
 
 <!-- <img src="https://github.com/user-attachments/assets/80a75557-079a-45e6-903c-38951f4130fe" width="300" alt="Screenshot 1"/>
 <img src="https://github.com/user-attachments/assets/23e1f30e-b141-4829-bf85-e5022efe04ee" width="300" alt="Screenshot 2"/>
